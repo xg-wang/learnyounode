@@ -1,0 +1,6 @@
+{
+  "name": "11-http-file-server",
+  "version": "1.0.0",
+  "main": "http-file-server.js",
+  "license": "MIT"
+}
