@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "moment": "^2.18.1",
+    "momentjs": "^2.0.0"
+  },
+  "name": "10-time-server",
+  "version": "1.0.0",
+  "main": "time-server.js",
+  "license": "MIT"
+}
